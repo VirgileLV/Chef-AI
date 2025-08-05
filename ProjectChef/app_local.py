@@ -1,5 +1,5 @@
 import streamlit as st
-from data_pipeline import get_vectorstore, load_llm, build_context_smart, truncate_prompt, _tokenizer
+from data_pipeline_local import get_vectorstore, load_llm, build_context_smart, truncate_prompt, _tokenizer
 
 # Initialize model pipeline
 @st.cache_resource(show_spinner=False)
