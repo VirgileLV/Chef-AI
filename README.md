@@ -1,6 +1,6 @@
-# 👨‍🍳 ChefFriends – Your AI Cooking Assistant
+# 👨‍🍳 Chef-AI – Your AI Cooking Assistant
 
-ChefFriends is an AI-powered cooking assistant that allows users to upload recipe documents (CSV or PDF), ask natural language questions, and receive accurate answers grounded in your uploaded content.
+Chef-AI is an AI-powered cooking assistant that allows users to upload recipe documents (CSV or PDF), ask natural language questions, and receive accurate answers grounded in your uploaded content.
 
 It combines **Groq's LLM**, **Hugging Face Embeddings**, and **FAISS vector search**, all wrapped inside an intuitive **Streamlit interface**. The app uses a **Retrieval-Augmented Generation (RAG)** architecture to ensure high-quality, context-aware answers.
 
